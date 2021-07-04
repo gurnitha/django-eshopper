@@ -40,7 +40,11 @@ This is my exercise building ecommerce application based on the tutorial made by
         modified:   apps/home/models.py
         modified:   README.md
 
+#### 7. Fetching Category and Subcategory data to home page
 
+        modified:   README.md
+        modified:   apps/home/views.py
+        modified:   templates/home/index.html
 
 
 
