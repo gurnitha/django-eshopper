@@ -35,7 +35,10 @@ This is my exercise building ecommerce application based on the tutorial made by
         modified:   apps/home/models.py
 
 
+#### 6. Adding data to subcategory        
 
+        modified:   apps/home/models.py
+        modified:   README.md
 
 
 
