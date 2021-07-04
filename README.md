@@ -15,4 +15,9 @@ This is my exercise building ecommerce application based on the tutorial made by
         new file:   static/js/price-range.js
         new file:   templates/home/index.html
 
+#### 3. Adding html template to home page
 
+        modified:   README.md
+        new file:   static/images/ico/favicon.ico
+        new file:   static/images/ico/favicon2.ico
+        modified:   templates/home/index.html
