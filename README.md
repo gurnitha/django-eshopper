@@ -27,3 +27,21 @@ This is my exercise building ecommerce application based on the tutorial made by
         modified:   README.md
         new file:   templates/base.html
         modified:   templates/home/index.html
+
+#### 5. Create Category and SubCategory models, run migrations and add some data to category
+
+        modified:   apps/home/admin.py
+        new file:   apps/home/migrations/0001_initial.py
+        modified:   apps/home/models.py
+
+
+
+
+
+
+
+
+
+
+
+
