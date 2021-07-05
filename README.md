@@ -1,6 +1,8 @@
 # django-eshopper
 This is my exercise building ecommerce application based on the tutorial made by Knowledge of Codding on Youtube
 
+https://www.youtube.com/watch?v=M1OdF9U47_c&list=PLTV1jAY3nKHOqKs4uDaBOdqL3jKK7fjSo&index=16
+
 #### 1. Setup - Create venv, install django create project and app
 
 #### 2. Setup static files, templates and homepage
@@ -74,3 +76,21 @@ This is my exercise building ecommerce application based on the tutorial made by
         modified:   apps/home/views.py
         modified:   templates/home/index.html
 
+#### 11. Linking categories, subcategories with products
+
+        modified:   README.md
+        modified:   apps/home/views.py
+        new file:   products/img/adidas-shoes-run.PNG
+        new file:   products/img/nike-tshirt.png
+        new file:   products/img/nike-tshirt2.png
+        new file:   products/img/nike-tshirt3.png
+        new file:   products/img/nike-tshirt4.png
+        new file:   products/img/uder-armour-activewear.jpg
+        new file:   products/img/under-armour-sling-bag.PNG
+        new file:   products/img/vandi-patns-b.PNG
+        new file:   products/img/vandi-patns-b_HQNI0FA.PNG
+        new file:   products/img/vandi-patns-c.PNG
+        new file:   products/img/vandi-patns-c_Dd5QEW4.PNG
+        new file:   products/img/vandi-patns-d.PNG
+        new file:   products/img/vandi-patns-d_ghGF4HS.PNG
+        modified:   templates/home/index.html

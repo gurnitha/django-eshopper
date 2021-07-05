@@ -98,7 +98,7 @@
 								<div class="panel-body">
 									<ul>
 										{% for subcat in category.subcategory_set.all  %}
-										<li><a href="#">{{subcat.name}} </a></li>	
+										<li><a href="/?category={{subcat.id}}">{{subcat.name}} </a></li>	
 										{% endfor %}
 									</ul>
 								</div>
