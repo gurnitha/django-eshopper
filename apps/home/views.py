@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-from apps.home.models import Category
+from apps.home.models import Category, Product
 
 # Create your views here.
 
@@ -12,9 +12,11 @@ from apps.home.models import Category
 def Homepage(request):
 
 	categories = Category.objects.all()
+	products   = Product.objects.all()
 
 	context = {
-		'categories':categories
+		'categories':categories,
+		'products':products
 	}
 	
 	return render(request, 'home/index.html', context)

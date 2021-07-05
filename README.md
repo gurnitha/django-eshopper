@@ -68,4 +68,9 @@ This is my exercise building ecommerce application based on the tutorial made by
         new file:   products/img/product5.jpg
         new file:   products/img/product6.jpg
 
+#### 10. Fetching products to home page from database
+
+        modified:   README.md
+        modified:   apps/home/views.py
+        modified:   templates/home/index.html
 
