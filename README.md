@@ -34,7 +34,6 @@ This is my exercise building ecommerce application based on the tutorial made by
         new file:   apps/home/migrations/0001_initial.py
         modified:   apps/home/models.py
 
-
 #### 6. Adding data to subcategory        
 
         modified:   apps/home/models.py
@@ -46,9 +45,27 @@ This is my exercise building ecommerce application based on the tutorial made by
         modified:   apps/home/views.py
         modified:   templates/home/index.html
 
+#### 8. Create Product model and add products data
 
+        modified:   README.md
+        modified:   apps/home/admin.py
+        new file:   apps/home/migrations/0002_product.py
+        new file:   apps/home/migrations/0003_auto_20210705_0123.py
+        modified:   apps/home/models.py
 
+#### 9. Setup media root and add some products
 
-
+        modified:   README.md
+        modified:   apps/home/admin.py
+        new file:   apps/home/migrations/0002_product.py
+        new file:   apps/home/migrations/0003_auto_20210705_0123.py
+        modified:   apps/home/models.py
+        modified:   config/urls.py
+        new file:   products/img/product1.jpg
+        new file:   products/img/product2.jpg
+        new file:   products/img/product3.jpg
+        new file:   products/img/product4.jpg
+        new file:   products/img/product5.jpg
+        new file:   products/img/product6.jpg
 
 
